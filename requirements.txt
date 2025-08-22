@@ -1,9 +1,9 @@
-pmdarima==2.0.4
+jupyter==1.1.1
+matplotlib==3.10.5
 numpy==1.24.2
-pandas==2.2.3
-scikit-learn==1.3.2
-scipy==1.15.2
-matplotlib==3.10.1
+pandas==2.3.2
+pmdarima==2.0.4
+pyarrow==21.0.0
+scikit-learn==1.7.1
+scipy==1.15.3
 seaborn==0.13.2
-ipykernel==6.29.5
-pyarrow==19.0.1
